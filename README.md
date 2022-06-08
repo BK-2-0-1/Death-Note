@@ -1,3 +1,5 @@
 # Death-Note
 
-Google Keep clone. Created with react
+You can write a name of person you want to die and reason of death, or just things you need to do :)
+
+// Google Keep clone.
